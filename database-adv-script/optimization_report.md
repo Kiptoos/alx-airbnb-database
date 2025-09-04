@@ -1,0 +1,1 @@
+# Full optimization_report.md — projection, join types, predicates, indexes.

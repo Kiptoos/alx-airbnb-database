@@ -1,0 +1,1 @@
+# Full index_performance.md — see earlier guidance for EXPLAIN (ANALYZE).

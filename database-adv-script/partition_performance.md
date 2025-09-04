@@ -1,0 +1,1 @@
+# Full partition_performance.md — measure pruning & latency with EXPLAIN (ANALYZE).
